@@ -16,6 +16,8 @@ the third one is OCSVM(One-Class Support Vector Machine)
 
 and finally the last algorithm is Isolation Forest.
 
+All of the algorithms independetly are generated and saved in different notebooks with their own name respectively, but the main notebook with name:"Surface_Defect_Detection_Unsupervised.ipynb" is available that shows the result for all algorithms and compares them to identify the best algorithm.
+
 
 
 
